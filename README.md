@@ -59,6 +59,21 @@ This project focuses on answering the following business questions:
 
 ---
 
+## Key Metrics
+
+| Metric | Result |
+|---|---:|
+| Total Employees | 1,470 |
+| Attrition Count | 237 |
+| Attrition Rate | 16.12% |
+| Overtime Attrition Rate | 30.53% |
+| Non-Overtime Attrition Rate | 10.44% |
+| Highest Job Role Attrition | 39.8% |
+| Highest Age Group Attrition | 39.2% |
+| Highest Tenure Group Attrition | 34.9% |
+
+---
+
 ## Key Findings
 
 - Overall observed attrition rate: **16.12%**
