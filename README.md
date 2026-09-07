@@ -14,11 +14,28 @@ The analysis focuses on employee demographics, departments, job roles, overtime,
 
 ## Dataset
 
-- **Employees:** 1,470
-- **Columns:** 35
-- **Target Variable:** Attrition
-- **Missing Values:** 0
-- **Duplicate Rows:** 0
+### Dataset Source
+
+The dataset is the **IBM HR Analytics Employee Attrition & Performance** dataset.
+
+* **Employees:** 1,470
+* **Columns:** 35
+* **Target Variable:** Attrition
+* **Missing Values:** 0
+* **Duplicate Rows:** 0
+* **Dataset Type:** Fictional HR workforce dataset
+
+
+## Business Questions
+
+This project focuses on answering the following business questions:
+
+1. What is the overall employee attrition rate?
+2. Which departments and job roles have higher observed attrition?
+3. How does overtime relate to observed employee attrition?
+4. Which age and tenure groups show higher observed attrition?
+5. How do business travel, income and employee satisfaction relate to attrition?
+6. Which employee segments should be prioritized for retention monitoring?
 
 ---
 
