@@ -76,6 +76,12 @@ Based on the analysis, the following areas can be prioritized for employee reten
 
 The Power BI dashboard provides an interactive view of employee attrition across key workforce dimensions.
 
+### Dashboard Preview
+
+![HR Analytics Dashboard](images/hr_analytics_dashboard.png)
+
+---
+
 ### Dashboard Includes
 
 - Total Employees
@@ -91,10 +97,6 @@ The Power BI dashboard provides an interactive view of employee attrition across
 - Job Satisfaction
 - Environment Satisfaction
 - Work-Life Balance
-
-### Dashboard Preview
-
-![HR Analytics Dashboard](images/hr_analytics_dashboard.png)
 
 ---
 
