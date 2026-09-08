@@ -74,6 +74,41 @@ This project focuses on answering the following business questions:
 
 ---
 
+## Python & SQL Analysis
+
+### Python — Exploratory Data Analysis
+
+Python was used to explore the dataset, validate data quality, calculate attrition rates and identify patterns across employee segments.
+
+Key analysis areas included:
+
+- Overall employee attrition
+- Department-wise attrition
+- Job role-wise attrition
+- Overtime analysis
+- Age and tenure analysis
+- Business travel
+- Income bands
+- Employee satisfaction metrics
+
+### SQL — Workforce Analysis
+
+SQL was used to perform structured workforce analysis and calculate attrition rates across different employee segments.
+
+Key SQL analyses included:
+
+- Overall attrition rate
+- Department-wise attrition
+- Job role-wise attrition
+- Overtime-wise attrition
+- Age and tenure bands
+- Business travel
+- Income and satisfaction analysis
+
+These analyses helped validate the findings used in the Power BI dashboard and business recommendations.
+
+---
+
 ## Key Findings
 
 - Overall observed attrition rate: **16.12%**
