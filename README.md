@@ -143,6 +143,16 @@ Based on the analysis, the following areas can be prioritized for employee reten
 
 The Power BI dashboard provides an interactive view of employee attrition across key workforce dimensions.
 
+### Dashboard Features
+
+- KPI cards for total employees, attrition count and attrition rate
+- Department-level filtering
+- Attrition analysis by department and job role
+- Overtime and business travel analysis
+- Age and tenure segmentation
+- Income and employee satisfaction analysis
+- Interactive filtering for workforce segment analysis
+
 ### Dashboard Preview
 
 ![HR Analytics Dashboard](images/hr_analytics_dashboard.png)
