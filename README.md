@@ -205,6 +205,14 @@ All project files are organized by tool and workflow stage inside the repository
 
 ---
 
+## Limitations
+
+- The dataset is fictional and is intended for analytical practice.
+- The analysis identifies observed patterns and associations; it does not establish causal relationships.
+- Findings are based on the available variables and historical records in the dataset.
+
+---
+
 ## Author
 
 **Md. Javed Ali**  
